@@ -8,7 +8,7 @@ router.get('/', function(req, res, next) {
 
 router.get('/yyj', function (req, res, next) {
   const data = {
-    name: 'boyuan',
+    name: 'bo222yuan',
     say: 'helloboy'
   }
   res.json(data)
